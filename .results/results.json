@@ -1,0 +1,52 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCPJPW05_TEST_1",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML heading element with text content as \"Count 0\" initially",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPJPW05_TEST_2",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"Increment\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPJPW05_TEST_3",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"Count is Even\" initially",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPJPW05_TEST_4",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"*Increase By Random Number Between 0 to 100\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPJPW05_TEST_5",
+      "evaluation_result": "CORRECT",
+      "title": "When the Increment button is clicked, the count should be greater than or equal to the previous count",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPJPW05_TEST_6",
+      "evaluation_result": "CORRECT",
+      "title": "When the Increment button is clicked, the count should be increased and the HTML heading element should consist of the increased count",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPJPW05_TEST_7",
+      "evaluation_result": "CORRECT",
+      "title": "When the Increment button is clicked, the count should be increased and \"Count is Even\" text should be displayed if the count is even",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPJPW05_TEST_8",
+      "evaluation_result": "CORRECT",
+      "title": "When the Increment button is clicked, the count should be increased and \"Count is Odd\" text should be displayed if the count is odd",
+      "errorMessages": []
+    }
+  ]
+}

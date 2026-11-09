@@ -1,0 +1,32 @@
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+.card-container {
+  background-image: linear-gradient(#f86b76, #8ed7e8);
+  padding: 60px;
+  border-radius: 15px;
+  text-align: center;
+  width: 400px;
+}
+.card-container h1 {
+  font-size: 36px;
+  color: #1e293b;
+}
+.card-container p {
+  font-size: 22px;
+  color: #334155;
+}
+.card-container button {
+  padding: 10px 35px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #333333;
+}
+.card-container .note {
+  font-size: 12px;
+}
